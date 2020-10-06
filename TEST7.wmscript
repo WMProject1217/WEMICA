@@ -1,0 +1,3 @@
+EXEC=#SystemRoot#\explorer.exe
+BSDC=3=LBWNB=235=0=0
+PLAYSOUND=#AppPath#\BGM.wmmpeg

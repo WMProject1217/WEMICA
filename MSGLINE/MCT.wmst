@@ -1,0 +1,40 @@
+label1.left=0
+label1.width=0.28108108 * form.width
+label1.top=0.84814814 * form.height
+label1.height=0.05432098 * form.height
+
+label2.left=0
+label2.width=0.28108108 * form.width
+label2.top= 0.79876543* form.height
+label2.height=0.05432098 * form.height
+
+label3.left=0
+label3.width=0.28108108 * form.width
+label3.top= 0.74691358 * form.height
+label3.height=0.05432098 * form.height
+
+label4.left=0
+label4.width=0.28108108 * form.width
+label4.top= 0.69629629 * form.height
+label4.height=0.05432098 * form.height
+
+label5.left=0
+label5.width=0.28108108 * form.width
+label5.top= 0.64444444 * form.height
+label5.height=0.05432098 * form.height
+
+label6.left=0
+label6.width=0.28108108 * form.width
+label6.top= 0.59135802 * form.height
+label6.height=0.05432098 * form.height
+
+label7.left=0
+label7.width=0.28108108 * form.width
+label7.top= 0.53827160 * form.height
+label7.height=0.05432098 * form.height
+
+label8.left=0
+label8.width=0.28108108 * form.width
+label8.top= 0.48765432 * form.height
+label8.height=0.05432098 * form.height
+
